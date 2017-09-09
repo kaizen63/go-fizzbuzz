@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"./fizzbuzz"
+
+	"github.com/kaizen63/go-fizzbuzz/fizzbuzz"
 )
 
 func main() {
