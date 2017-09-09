@@ -18,3 +18,8 @@ func TestMain(t *testing.T) {
 		t.Fatalf("process ran with err %v, want exit status 0", err)
 	}
 }
+
+func TestMain2(t *testing.T) {
+	main()
+	return
+}
