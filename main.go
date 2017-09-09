@@ -4,6 +4,10 @@ import (
 	"fmt"
 )
 
+// Fizzbuzz returns "Fizz" for every number divisibal by 3,
+// "Buzz" for every number divisable by 5,
+// "FizzBuzz" if it is divisable by 3 and 5.
+// Otherwise it returns the number
 func Fizzbuzz(i int) string {
 	var result string
 	if i%15 == 0 {
