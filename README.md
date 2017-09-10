@@ -4,4 +4,6 @@
 
 Implementation of the FizzBuzz game in Go for the first 100 numbers.
 
+Inspired by [Kevlin Henney](https://en.wikipedia.org/wiki/Kevlin_Henney)
+
 
